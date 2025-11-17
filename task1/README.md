@@ -1,4 +1,4 @@
-# AI‑Native Era
+# Understanding the AI-Native Turning Point
 
 ## 📌  Goal
 Understand what AI-Driven Development (AIDD) means and how the October 2025 AI
