@@ -8,7 +8,7 @@ better for your growth as a system architect?**
 AI Development Agents  repetitive setup aur boilerplate ka kaam karte hain. Is se hum developers zyada focus architecture, design aur problem-solving pe kar sakte hain.
 
 **Q1B.Explain how the Nine Pillars of AIDD help a developer grow into an M-Shaped Developer.**  
-M-Shaped Developer aesa developer jo ek se zyada related domains me deep expertise rakhta ho aur AI tools ke sath efficiently complex systems develop kar sakta ho.Nine Pillars (Specification-Driven, AI-Augmented, Agent-Orchestrated, Quality-Gated, Version-Controlled, Human-Verified, Iteratively-Refined, Documentation-Embedded, Production-Ready)
+M-Shaped Developer aesa developer jo ek se zyada related domains me deep expertise rakhta ho aur AI tools ke sath efficiently complex systems develop kar sakta ho.Nine Pillars 
 ek complete system banate hain. Ye hume multiple skills develop karne aur solo me complex systems handle karne me help karte hain  is tarah M-Shaped Developer banta hai.
 
 ---
