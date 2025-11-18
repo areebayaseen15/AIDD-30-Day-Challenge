@@ -44,7 +44,7 @@ Is approach se developer scalable, maintainable aur production-ready systems des
 
 ### CLI Screenshot
 
-![CLI Screenshot](./screenshot.png)
+![CLI Screenshot](./Screenshot 2025-11-18 120444(2).png)
 
 ## 📌 Part C — Multiple Choice Questions
 
